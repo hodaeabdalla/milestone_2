@@ -1,0 +1,39 @@
+---
+title: "milestone_2.Rmd"
+author: "Hoda Abdalla"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Tauheed Islam: Hip-Hop and Rap References of the 2016 Presidential Candidates
+
+Pros:
+-The plots are very clear and easy to read.
+-The data is presented in an interactive way, that way the reader can select which data variations they would like to examine.
+-The raw data is very clean and easy to work with.
+
+Cons:
+-Whether the lyric is postive, neutral, or negative can be subjective.
+-The "key takeaway" section is only about Trump, even though the data involves all 2016 Presidential candidates.
+
+
+
+
+Cunhonghu Ding: Which college in the United States offers you the best chance to climb the ladder?
+
+Pros:
+-The variable descriptions are very detailed and helpful when examining the data.
+-The data is comprehensive and inclusive, as it includes over 30 million college students.
+-The amount of variables (7) allows for a thorough analysis of the "fading American Dream".
+
+Cons:
+-The title seems to be incomplete.
+-The map can be difficult to navigate.
+-A summary could have been added to discuss trends in the data.
+-Lots of the variables in the raw data are difficult to understand.
+
+
